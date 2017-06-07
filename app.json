@@ -1,0 +1,5 @@
+{
+  "name": "Heroku Stub API: Node.js",
+  "description": "A barebones Node.js app using Json Server",
+  "image": "heroku/nodejs"
+}

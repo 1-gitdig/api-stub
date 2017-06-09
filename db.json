@@ -35,5 +35,11 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "clients" : {
+    "id" : 1,
+    "segment" : "MIDDLE"
+
+    
   }
 }

@@ -1,8 +1,8 @@
 {
-  "posts": [
+  "orders": [
     {
-      "id": 1,
-      "title": "json-server",
+      "sirius_order_id": 1,
+      "sirius_client_id": 1,
       "author": "typicode"
     },
     {

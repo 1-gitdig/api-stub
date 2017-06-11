@@ -13,8 +13,8 @@
       "amount_to": 0,
       "order_status": 0,
       "client_stop_rate": 27,
-      "current_trade_rate": ,
-      "current_trade_date_valid_to":      
+      "current_trade_rate": 0,
+      "current_trade_date_valid_to": ""      
     },
     {
       "id": 2,

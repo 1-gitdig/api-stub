@@ -12,8 +12,8 @@
       "amount_from": 501.90,
       "amount_to": 0,
       "order_status": 0,
-      "client_stop_rate": 27.00,
-      "current_trade_rate": 0.00,
+      "client_stop_rate": 27,
+      "current_trade_rate": 0,
       "current_trade_date_valid_to": ""     
     },
     {
@@ -29,7 +29,7 @@
       "amount_to": 0,
       "order_status": 0,
       "client_stop_rate": 27.00,
-      "current_trade_rate": 0.00,
+      "current_trade_rate": 0,
       "current_trade_date_valid_to": ""     
     },
     {

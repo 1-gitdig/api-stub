@@ -1,7 +1,7 @@
 {
   "orders": [
     {
-      "sirius_order_id": 1,
+      "id": 1,
       "sirius_client_id": 1,
       "order_number": "12",
       "order_date": "2017.06.07",
@@ -17,7 +17,7 @@
       "current_trade_date_valid_to": ""     
     },
     {
-      "sirius_order_id": 2,
+      "id": 2,
       "sirius_client_id": 1,
       "order_number": "12",
       "order_date": "2017.06.07",
@@ -33,7 +33,7 @@
       "current_trade_date_valid_to": ""     
     },
     {
-      "sirius_order_id": 3,
+      "id": 3,
       "sirius_client_id": 1,
       "order_number": "12",
       "order_date": "2017.06.07",

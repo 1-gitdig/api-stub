@@ -3,50 +3,58 @@
     {
       "sirius_order_id": 1,
       "sirius_client_id": 1,
-      "author": "typicode"
+      "order_number": "12",
+      "order_date": "2017.06.07",
+      "operation": 0,
+      "currency_from": "USD",
+      "currency_to": "UAH",
+      "order_rate_type": 1,
+      "amount_from": "501.90",
+      "amount_to": "",
+      "order_status": "0",
+      "client_stop_rate": "27.00",
+      "current_trade_rate": "",
+      "current_trade_date_valid_to": ""     
     },
     {
-      "id": 2,
-      "title2": "json-server2",
-      "author2": "typicode2"
+      "sirius_order_id": 2,
+      "sirius_client_id": 1,
+      "order_number": "12",
+      "order_date": "2017.06.07",
+      "operation": 0,
+      "currency_from": "USD",
+      "currency_to": "UAH",
+      "order_rate_type": 1,
+      "amount_from": "502.90",
+      "amount_to": "",
+      "order_status": "0",
+      "client_stop_rate": "27.00",
+      "current_trade_rate": "",
+      "current_trade_date_valid_to": ""     
     },
     {
-      "id": 3,
-      "title2": "json-server3",
-      "author2": "typicode3"
-    },
-    {
-      "id": 4,
-      "title2": "json-server4",
-      "author2": "typicode4"
-    },
-    {
-      "id": 5,
-      "title5": "json-server4",
-      "author5": "typicode4"
+      "sirius_order_id": 3,
+      "sirius_client_id": 1,
+      "order_number": "12",
+      "order_date": "2017.06.07",
+      "operation": 0,
+      "currency_from": "USD",
+      "currency_to": "UAH",
+      "order_rate_type": 1,
+      "amount_from": "502.90",
+      "amount_to": "",
+      "order_status": "3",
+      "client_stop_rate": "27.00",
+      "current_trade_rate": "26.8",
+      "current_trade_date_valid_to": "2017.06.20 12:00:00"     
     }
   ],
-  "comments": [
+  "clients": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "clientType": "LEGAL_ENTITY",
+      "clientSegmentType": "SMALL",
+      "phone": ""      
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "clients" : {
-    "id" : 1,
-    "segment" : "MIDDLE"
-
-    
-  }
-  ,
-  "orders" : {
-    "id" : 1,
-    "segment" : "MIDDLE"
-
-    
-  }
+  ]
 }

@@ -1,53 +1,41 @@
 {
   "orders": [
-    {
-      "id": 1,
-      "sirius_client_id": 1,
-      "order_number": "12",
-      "order_date": "2017.06.07",
-      "operation": 0,
-      "currency_from": "USD",
-      "currency_to": "UAH",
-      "order_rate_type": 1,
-      "amount_from": 501.90,
-      "amount_to": 0,
-      "order_status": 0,
-      "client_stop_rate": 27,
-      "current_trade_rate": 0,
-      "current_trade_date_valid_to": ""      
-    },
-    {
-      "id": 2,
-      "sirius_client_id": 1,
-      "order_number": "12",
-      "order_date": "2017.06.07",
-      "operation": 0,
-      "currency_from": "USD",
-      "currency_to": "UAH",
-      "order_rate_type": 1,
-      "amount_from": 502.90,
-      "amount_to": 0,
-      "order_status": 0,
-      "client_stop_rate": 27.00,
-      "current_trade_rate": 0,
-      "current_trade_date_valid_to": ""     
-    },
-    {
-      "id": 3,
-      "sirius_client_id": 1,
-      "order_number": "12",
-      "order_date": "2017.06.07",
-      "operation": 0,
-      "currency_from": "USD",
-      "currency_to": "UAH",
-      "order_rate_type": 1,
-      "amount_from": 502.90,
-      "amount_to": 0,
-      "order_status": 3,
-      "client_stop_rate": 27.00,
-      "current_trade_rate": 26.8,
-      "current_trade_date_valid_to": "2017.06.20 12:00:00"     
-    }
+     {
+        "data": [
+            {
+              "id": 1,
+              "sirius_client_id": 1,
+              "order_number": "12",
+              "order_date": "2017.06.07",
+              "operation": 0,
+              "currency_from": "USD",
+              "currency_to": "UAH",
+              "order_rate_type": 1,
+              "amount_from": 501.90,
+              "amount_to": 0,
+              "order_status": 0,
+              "client_stop_rate": 27,
+              "current_trade_rate": 0,
+              "current_trade_date_valid_to": ""      
+            },
+            {
+              "id": 1,
+              "sirius_client_id": 1,
+              "order_number": "12",
+              "order_date": "2017.06.07",
+              "operation": 0,
+              "currency_from": "USD",
+              "currency_to": "UAH",
+              "order_rate_type": 1,
+              "amount_from": 501.90,
+              "amount_to": 0,
+              "order_status": 0,
+              "client_stop_rate": 27,
+              "current_trade_rate": 0,
+              "current_trade_date_valid_to": ""      
+            }
+          ]
+     }
   ],
    "clients": [
     {

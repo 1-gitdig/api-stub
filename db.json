@@ -49,4 +49,14 @@
       "current_trade_date_valid_to": "2017.06.20 12:00:00"     
     }
   ]
- }
+ },
+{
+   "clients": [
+    {
+      "id": 1,
+      "clientType": "LEGAL_ENTITY",
+      "clientSegmentType": "SMALL",
+      "phone": ""      
+    }
+  ]
+}

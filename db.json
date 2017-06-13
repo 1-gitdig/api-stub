@@ -118,6 +118,12 @@
       "clientType": "LEGAL_ENTITY",
       "clientSegmentType": "SMALL",
       "phone": ""      
+    },
+        {
+      "id": 2,
+      "sirius_client_id": 1,
+      "order_number": "12",
+      "order_date": "2017.06.07"
     }
   ]
 }

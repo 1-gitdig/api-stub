@@ -75,53 +75,60 @@
   ],
   "Courses":[
   {
+    "id": 1,
     "Ccy": "USD",
     "Ctype": "0",
     "Cbase": "UAH",
     "Cdate": "2017.06.19",
     "Crate": 26560930,      
-                "Numb": 1000000
+    "Numb": 1000000
 },
 {
+    "id": 2,
     "Ccy": "USD",
     "Ctype": "0",
     "Cbase": "UAH",
     "Cdate": "2017.06.20",
     "Crate": 26760930,      
-                "Numb": 1000000
+    "Numb": 1000000
 },
 {
+    "id": 3,
     "Ccy": "USD",
     "Ctype": "0",
     "Cbase": "UAH",
     "Cdate": "2017.06.21",
     "Crate": 26860930,      
-                "Numb": 1000000
+    "Numb": 1000000
 },
 {
+    "id": 4,
     "Ccy": "EUR",
     "Ctype": "0",
     "Cbase": "UAH",
     "Cdate": "2017.06.19",
     "Crate": 29031096,      
-                "Numb": 1000000
+    "Numb": 1000000
 },
 {
+    "id": 5,
     "Ccy": "EUR",
     "Ctype": "0",
     "Cbase": "UAH",
     "Cdate": "2017.06.20",
     "Crate": 29131096,      
-                "Numb": 1000000
+    "Numb": 1000000
 },
 {
+    "id": 6,
     "Ccy": "EUR",
     "Ctype": "0",
     "Cbase": "UAH",
     "Cdate": "2017.06.21",
     "Crate": 29231096,      
-                "Numb": 1000000
-  }
+    "Numb": 1000000
+}
+
   ],
   "NR": [
     {

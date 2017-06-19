@@ -73,6 +73,56 @@
       "phone": "+380667788444"      
     }
   ],
+  "Courses":[
+  {
+    "Ccy": "USD",
+    "Ctype": "0",
+    "Cbase": "UAH",
+    "Cdate": "2017.06.19",
+    "Crate": 26560930,      
+                "Numb": 1000000
+},
+{
+    "Ccy": "USD",
+    "Ctype": "0",
+    "Cbase": "UAH",
+    "Cdate": "2017.06.20",
+    "Crate": 26760930,      
+                "Numb": 1000000
+},
+{
+    "Ccy": "USD",
+    "Ctype": "0",
+    "Cbase": "UAH",
+    "Cdate": "2017.06.21",
+    "Crate": 26860930,      
+                "Numb": 1000000
+},
+{
+    "Ccy": "EUR",
+    "Ctype": "0",
+    "Cbase": "UAH",
+    "Cdate": "2017.06.19",
+    "Crate": 29031096,      
+                "Numb": 1000000
+},
+{
+    "Ccy": "EUR",
+    "Ctype": "0",
+    "Cbase": "UAH",
+    "Cdate": "2017.06.20",
+    "Crate": 29131096,      
+                "Numb": 1000000
+},
+{
+    "Ccy": "EUR",
+    "Ctype": "0",
+    "Cbase": "UAH",
+    "Cdate": "2017.06.21",
+    "Crate": 29231096,      
+                "Numb": 1000000
+  }
+  ],
   "NR": [
     {
       "id": 1,

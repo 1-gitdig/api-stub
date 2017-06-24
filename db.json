@@ -95,6 +95,22 @@
     "client_stop_rate": 27,
     "current_trade_rate": 0,
     "current_trade_date_valid_to": ""
+  },
+  {
+    "id": 7,
+    "sirius_client_id": 3,
+    "order_number": "12",
+    "order_date": "2017.06.07",
+    "operation": 0,
+    "currency_from": "USD",
+    "currency_to": "",
+    "order_rate_type": 1,
+    "amount_from": 502.9,
+    "amount_to": 0,
+    "order_status": 3,
+    "client_stop_rate": 27,
+    "current_trade_rate": 0,
+    "current_trade_date_valid_to": ""
   }
   ],
   "clients": [

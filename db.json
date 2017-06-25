@@ -111,6 +111,22 @@
     "client_stop_rate": 27,
     "current_trade_rate": 0,
     "current_trade_date_valid_to": ""
+  },
+    {
+    "id": 8,
+    "sirius_client_id": 4,
+    "order_number": "12",
+    "order_date": "2017.06.07",
+    "operation": 0,
+    "currency_from": "USD",
+    "currency_to": "UAH",
+    "order_rate_type": 1,
+    "amount_from": 501.9,
+    "amount_to": 0,
+    "order_status": 0,
+    "client_stop_rate": 27,
+    "current_trade_rate": 0,
+    "current_trade_date_valid_to": ""
   }
   ],
   "clients": [
@@ -131,6 +147,12 @@
     "clientType": "STATE_COMPANY",
     "clientSegmentType": "AVERAGE",
     "phone": "+380666666666"
+  },
+  {
+    "id": 4,
+    "clientType": "LEGAL_ENTITY",
+    "clientSegmentType": "SMALL",
+    "phone": "+38ваів666666666"
   }
   ],
   "Courses":[

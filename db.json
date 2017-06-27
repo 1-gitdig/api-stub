@@ -130,7 +130,7 @@
   }
   ],
   "clients": [
-  {"id": 19, "clientType": "EXTERNAL", "clientSegmentType": "LARGE", "phone": "+380911111019"},
+  {"id": 18, "clientType": "STATE", "clientSegmentType": "STATE_COMPANY", "phone": "+380911111018"},
   {
     "id": 1,
     "clientType": "LEGAL_ENTITY",

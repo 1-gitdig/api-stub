@@ -10,7 +10,7 @@
     "currency_to": "UAH",
     "order_rate_type": 1,
     "amount_from": 550,
-    "amount_to": ,
+    "amount_to": 0,
     "order_status": 3,
     "client_stop_rate": 26.5,
     "current_trade_rate": 26.25,

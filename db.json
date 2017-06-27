@@ -7,14 +7,7 @@
     "order_date": "2017.06.22",
     "operation": 0,
     "currency_from": "USD",
-    "currency_to": "UAH",
-    "order_rate_type": 1,
-    "amount_from": 550,
-    "amount_to": 0,
-    "order_status": 3,
-    "client_stop_rate": 26.5,
-    "current_trade_rate": 26.25,
-    "current_trade_date_valid_to": "2017.06.22 11:50:00"
+    "currency_to": "UAH"
   },
   {
     "id": 1,

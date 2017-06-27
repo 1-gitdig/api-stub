@@ -132,31 +132,26 @@
 {"id": 141, "sirius_client_id": 3, "order_number": "53", "order_date": "2017.06.22", "operation": 0, "currency_from": "USD", "currency_to": "UAH", "order_rate_type": 1, "amount_from": 120, "amount_to": 0, "order_status": 3, "client_stop_rate": 26.5, "current_trade_rate": 26.25, "current_trade_date_valid_to": "2017.06.22 11:50:00"}
   ],
   "clients": [
-  {"id": 18, "clientType": "STATE", "clientSegmentType": "STATE_COMPANY", "phone": "+380911111018"},
-  {
-    "id": 1,
-    "clientType": "LEGAL_ENTITY",
-    "clientSegmentType": "SMALL",
-    "phone": "+380670676767"
-  },
-  {
-    "id": 2,
-    "clientType": "PRIVATE_ENTERPRENEUR",
-    "clientSegmentType": "LARGE",
-    "phone": "+380500505050"
-  },
-  {
-    "id": 3,
-    "clientType": "STATE_COMPANY",
-    "clientSegmentType": "AVERAGE",
-    "phone": "+380666666666"
-  },
-  {
-    "id": 4,
-    "clientType": "LEGAL_ENTITY",
-    "clientSegmentType": "SMALL",
-    "phone": "нниорироиоро"
-  }
+{"id": 1, "clientType": "LEGAL_ENTITY", "clientSegmentType": "MICRO", "phone": "+380911111001"},
+{"id": 2, "clientType": "LEGAL_ENTITY", "clientSegmentType": "SMALL", "phone": "+380911111002"},
+{"id": 3, "clientType": "LEGAL_ENTITY", "clientSegmentType": "AVERAGE", "phone": "+380911111003"},
+{"id": 4, "clientType": "LEGAL_ENTITY", "clientSegmentType": "LARGE", "phone": "+380911111004"},
+{"id": 5, "clientType": "LEGAL_ENTITY", "clientSegmentType": "STATE_COMPANY", "phone": "+380911111005"},
+{"id": 6, "clientType": "PRIVATE_ENTERPRENEUR", "clientSegmentType": "MICRO", "phone": "+380911111006"},
+{"id": 7, "clientType": "PRIVATE_ENTERPRENEUR", "clientSegmentType": "SMALL", "phone": "+380911111007"},
+{"id": 8, "clientType": "PRIVATE_ENTERPRENEUR", "clientSegmentType": "AVERAGE", "phone": "+380911111008"},
+{"id": 9, "clientType": "PRIVATE_ENTERPRENEUR", "clientSegmentType": "LARGE", "phone": "+380911111009"},
+{"id": 10, "clientType": "PRIVATE_ENTERPRENEUR", "clientSegmentType": "STATE_COMPANY", "phone": "+380911111010"},
+{"id": 11, "clientType": "SELF_EMPLOYED", "clientSegmentType": "MICRO", "phone": "+380911111011"},
+{"id": 12, "clientType": "SELF_EMPLOYED", "clientSegmentType": "SMALL", "phone": "+380911111012"},
+{"id": 13, "clientType": "SELF_EMPLOYED", "clientSegmentType": "AVERAGE", "phone": "+380911111013"},
+{"id": 14, "clientType": "SELF_EMPLOYED", "clientSegmentType": "LARGE", "phone": "+380911111014"},
+{"id": 15, "clientType": "SELF_EMPLOYED", "clientSegmentType": "STATE_COMPANY", "phone": "+380911111015"},
+{"id": 16, "clientType": "BANK", "clientSegmentType": "LARGE", "phone": "+380911111016"},
+{"id": 17, "clientType": "PRIVATE", "clientSegmentType": "MICRO", "phone": "+380911111017"},
+{"id": 18, "clientType": "STATE", "clientSegmentType": "STATE_COMPANY", "phone": "+380911111018"},
+{"id": 19, "clientType": "EXTERNAL", "clientSegmentType": "LARGE", "phone": "+380911111019"},
+{"id": 20, "clientType": "LEGAL_ENTITY", "clientSegmentType": "MICRO", "phone": "+3809111110199"}
   ],
   "Courses":[
   {

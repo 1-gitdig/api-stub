@@ -226,8 +226,79 @@
     "Cdate": "2017.06.31",
     "Crate": 29231096,      
     "Numb": 1000000
+},
+{
+    "id": 11,
+    "Ccy": "GBL",
+    "Ctype": "0",
+    "Cbase": "UAH",
+    "Cdate": "2017.06.29",
+    "Crate": 33284130,      
+    "Numb": 1000000
+},
+{
+    "id": 12,
+    "Ccy": "GBL",
+    "Ctype": "0",
+    "Cbase": "UAH",
+    "Cdate": "2017.06.30",
+    "Crate": 33294130,      
+    "Numb": 1000000
+},
+{
+    "id": 13,
+    "Ccy": "PLN",
+    "Ctype": "0",
+    "Cbase": "UAH",
+    "Cdate": "2017.06.29",
+    "Crate": 6978045,      
+    "Numb": 1000000
+},   
+{
+    "id": 14,
+    "Ccy": "PLN",
+    "Ctype": "0",
+    "Cbase": "UAH",
+    "Cdate": "2017.06.30",
+    "Crate": 6979045,      
+    "Numb": 1000000
+}, 
+{
+    "id": 15,
+    "Ccy": "RUB",
+    "Ctype": "0",
+    "Cbase": "UAH",
+    "Cdate": "2017.06.29",
+    "Crate": 44290,      
+    "Numb": 1000000
+}, 
+{
+    "id": 16,
+    "Ccy": "RUB",
+    "Ctype": "0",
+    "Cbase": "UAH",
+    "Cdate": "2017.06.29",
+    "Crate": 44390,      
+    "Numb": 1000000
+},
+{
+    "id": 17,
+    "Ccy": "CHF",
+    "Ctype": "0",
+    "Cbase": "UAH",
+    "Cdate": "2017.06.29",
+    "Crate": 27026702,      
+    "Numb": 1000000
+},
+{
+    "id": 18,
+    "Ccy": "CHF",
+    "Ctype": "0",
+    "Cbase": "UAH",
+    "Cdate": "2017.06.30",
+    "Crate": 27036702,      
+    "Numb": 1000000
 }
-
   ],
   "NR": [
     {
